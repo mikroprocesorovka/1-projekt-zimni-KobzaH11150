@@ -1,0 +1,9 @@
+MIT – projekt zimní							Jan Kobza 4A
+
+STOPKY
+
+Jako svůj projekt jsem si zvolil stopky realizované na alfanumerickém displeji.
+Stopky se budou ovládat pomocí dvou tlačítek:
+1.	tlačítko bude mít dvě funkce: v případě krátkého stisku pozastaví/spustí stopky,
+ v případě delšího stisku stopky resetuje
+2.	tlačítko slouží pro uložení mezičasu
